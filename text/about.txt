@@ -1,0 +1,7 @@
+Geo is a telecommunication service company which provides telecommunication services to its customers.
+It uses a structured query language to store vast amount of records of its customers.
+It uses GUI and visually rich application called Geo Enterprises which aids in accessing these tables.
+Geo enterprises connects to 2 tables,
+namely "Directories" and "Address" which store personal and postal address of the customers respectively.
+Using this app, an employee can add, delete, update or search using constraints.
+This app helps in easily manipulating and using data and is efficient in mangement of immense amount of data within seconds.
