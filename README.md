@@ -3,14 +3,14 @@
 
 |SL.NO|Topic|
 |-|--|
-|I|[System Specification At a Glance](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#i-system-specification-at-a-glance)|
-|II|[Requirement Analysis](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#ii-requirement-analysis)|
-|III|[System Specifications](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#iii-system-specifications)|
-|IV|[Module](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#iv-modules)|
-|V|[Table Design and Structures](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#v-table-design-and-structure)|
-|VI|[Procedure / Function Description](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#v-table-design-and-structure)|
-|VII|[Future Enhancements](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#vii-future-enhancemets)|
-|VIII[Bibliography](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#viii-bibliography)|
+|I|[System Specification At a Glance](https://github.com/rudransmathur/Telephone_Directory#i-system-specification-at-a-glance)|
+|II|[Requirement Analysis](https://github.com/rudransmathur/Telephone_Directory#ii-requirement-analysis)|
+|III|[System Specifications](https://github.com/rudransmathur/Telephone_Directory#iii-system-specifications)|
+|IV|[Module](https://github.com/rudransmathur/Telephone_Directory#iv-modules)|
+|V|[Table Design and Structures](https://github.com/rudransmathur/Telephone_Directory#v-table-design-and-structure)|
+|VI|[Procedure / Function Description](https://github.com/rudransmathur/Telephone_Directory#vi-procedurefunction-description)|
+|VII|[Future Enhancements](https://github.com/rudransmathur/Telephone_Directory#vii-future-enhancemets)|
+|VIII[Bibliography](https://github.com/rudransmathur/Telephone_Directory#viii-bibliography)|
 ## I. SYSTEM SPECIFICATION AT A GLANCE
 ### AIM
 The objective of our project is to computerize the telephone directory. Front end is developed using Python 3.7.7 software and back end is with MySQL 8.0. Thus, the entire project is based on Python-MySQL connectivity. The various modules included are:
