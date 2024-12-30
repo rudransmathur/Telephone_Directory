@@ -3,15 +3,14 @@
 
 |SL.NO|Topic|
 |-|--|
-|I|[System Specification At a Glance]|
-|II|[Requirement Analysis]|
-|III|[System Specifications]|
-|IV|[Overview Of Python]|
-|V|[Module]|
-|VI|[Table Design and Structures]|
-|VII|[Procedure / Function Description]|
-|VIII|[Future Enhancements]|
-|IX|[Bibliography]|
+|I|[System Specification At a Glance](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#i-system-specification-at-a-glance)|
+|II|[Requirement Analysis](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#ii-requirement-analysis)|
+|III|[System Specifications](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#iii-system-specifications)|
+|IV|[Module](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#iv-modules)|
+|V|[Table Design and Structures](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#v-table-design-and-structure)|
+|VI|[Procedure / Function Description](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#v-table-design-and-structure)|
+|VII|[Future Enhancements](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#vii-future-enhancemets)|
+|VIII[Bibliography](https://github.com/rudransmathur/Telephone_Directory/edit/main/README.md#viii-bibliography)|
 ## I. SYSTEM SPECIFICATION AT A GLANCE
 ### AIM
 The objective of our project is to computerize the telephone directory. Front end is developed using Python 3.7.7 software and back end is with MySQL 8.0. Thus, the entire project is based on Python-MySQL connectivity. The various modules included are:
@@ -118,7 +117,7 @@ CITY: City of the person<br>
 PINCODE: Postal Address code where the person lives<br>
 DNO: Directory number<br>
 
-## V. MODULES
+## IV. MODULES
 Modules in our project along with their associated functions are as follows:
 |Module Name|Puspose|Functions|
 |-|-|-|
@@ -131,7 +130,7 @@ Modules in our project along with their associated functions are as follows:
 |pickle|A module in python used for converting python datatypes into bytes and strings|open()<br>dump()<br>load()<br>close()|
 |User defined functions|Deals with the SQL based operations|checking()<br>insertingdir()<br>insertingadd()<br>inserteddir()<br>insertedadd()<br>display()<br>display2()<br>searchname()<br>searchcity()<br>searchname1()<br>show1()<br>show2()<br>show3()<br>update()<br>hupdating()<br>updation()<br>deletion()<br>delete()<br>bi()|
 
-## VI. TABLE DESIGN AND STRUCTURE
+## V. TABLE DESIGN AND STRUCTURE
 
 |Sno.	|Field Name|	Type/Constraints|Purpose|
 |-|-|-|-|
@@ -149,7 +148,7 @@ Modules in our project along with their associated functions are as follows:
 |5|PINCODE|	INT (6)	|It stores the pincode|
 |6|	DNO|INT (5)(FOREIGN KEY)|	It stores the directory id|
 
-## VII. PROCEDURE/FUNCTION DESCRIPTION
+## VI. PROCEDURE/FUNCTION DESCRIPTION
 |Sno|	Function|	Purpose|
 |-|-|-|
 |1|	checking()|	Checks the username and password 
@@ -172,11 +171,11 @@ Modules in our project along with their associated functions are as follows:
 |18	|bi()	|For displaying contact list
 |19	|Canvases()	|To create a canvas for window
 
-## VIII FUTURE ENHANCEMETS
+## VII FUTURE ENHANCEMETS
 
 In the future designs, this program can be modified to not only store details but also the images of the people. Option for changing login details can be included.
 
-## IX. BIBLIOGRAPHY
+## VIII. BIBLIOGRAPHY
 
 <ul>
   <li>
